@@ -1,8 +1,8 @@
 {
     "server": {
-        "host": "your-aternos-server.aternos.me",
-        "port": 25565,
-        "version": "1.20.1"
+        "host": "MIKKY0011.aternos.me",
+        "port": 35853,
+        "version": "1.21.11"
     },
     "bot": {
         "username": "Visa2CodeBot",
